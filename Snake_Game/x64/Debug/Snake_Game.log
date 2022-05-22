@@ -1,0 +1,6 @@
+﻿  game.c
+C:\Users\NGO BINH DUONG\source\repos\Snake_Game\Snake_Game\game.c(62,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\NGO BINH DUONG\source\repos\Snake_Game\Snake_Game\game.c(200,41): warning C4133: '!=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\NGO BINH DUONG\source\repos\Snake_Game\Snake_Game\game.c(206,30): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\NGO BINH DUONG\source\repos\Snake_Game\Snake_Game\game.c(216,30): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+  Snake_Game.vcxproj -> C:\Users\NGO BINH DUONG\source\repos\Snake_Game\x64\Debug\Snake_Game.exe
